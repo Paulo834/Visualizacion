@@ -1,5 +1,3 @@
-# Visualizacion
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Paulo834/VisualizacionDatos.git/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Paulo834/Visualizacion/edit/main/README.md/main)
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/Paulo834/VisualizacionDatos.git/main
- 
+ :target: https://mybinder.org/v2/gh/Paulo834/Visualizacion/edit/main/README.md/main
